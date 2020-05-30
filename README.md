@@ -9,6 +9,8 @@ This is a complete project useful for Automobile repair and service center. It i
 The project handles all authentication processes including Register, Sign-in etc. After Sign-in the user can book for servicing his automobile.
 It shows service centers based on the location you search for.
 
+![booking](/booking.png)
+
 ## Technologies used
 
 ### JAVA
