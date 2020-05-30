@@ -18,6 +18,3 @@ Backend written in JAVA. CRUD operations are performed with the help of JDBC, se
 used for database.
 
 
-![Car Repair](/repair.png)
-
-
